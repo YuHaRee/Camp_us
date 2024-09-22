@@ -1,4 +1,4 @@
-# CAMP US!
+# CAMP US
 
 ### 팀명: COMM1T
 
